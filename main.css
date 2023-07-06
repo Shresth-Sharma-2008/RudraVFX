@@ -1,0 +1,89 @@
+body{
+    margin-top:0px;
+    margin-left:-20px;
+}
+#top{
+    background-color: rgb(245, 245, 245);
+    width:100vw;
+    height:55vw;
+}
+#photomain{
+    position:absolute;
+    top:2vw;
+    width:30vw;
+    height:30vw;
+    left:35vw;
+}
+#des{
+    display:none;
+}
+#name{
+    position:absolute;
+    top:30vw;
+    font-size:6vw;
+    left:35vw;
+}
+#contact{
+    position:absolute;
+    top:30vw;
+    font-size:3vw;
+    right:2vw;
+}
+#mail{
+    position:absolute;
+    top:35vw;
+    font-size:3vw;
+    right:2vw;
+}
+#bottom{
+    position: absolute;
+    top:50vw;
+    padding-top:1vh;
+    padding-bottom:2vw;
+    min-width:98vw;
+    height:10vw;
+    margin-left:1vw;
+    margin-right:1vw;
+    background-color: lightgray;
+}
+#bottomimg{
+    position: absolute;
+    display:inline-block;
+    width:10vw;
+    left:5vw;
+    margin-left:0px;
+    margin-right:0px;
+    padding-bottom:3vw;
+    margin-top:1vw;
+}
+#bottomname{
+    position: absolute;
+    display:inline-block;
+    font-size:4vw;
+    color:blueviolet;
+    margin-top:0.5vw;
+    margin-left:1vw;
+    left:16vw;
+}
+#bottomname3{
+    position: absolute;
+    display:inline-block;
+    color:gray;
+    font-size:2vw;
+    margin-top:6vw;
+    left:17.5vw;
+}
+#bottominstaimg{
+    display:inline-block;
+    position: absolute;
+    left:73vw;
+    width:8vw;
+    margin-top:0.75vw;
+}
+#bottomgitimg{
+    display:inline-block;
+    position: absolute;
+    left:85vw;
+    width:8vw;
+    margin-top:0.75vw;
+}

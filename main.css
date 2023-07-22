@@ -35,9 +35,15 @@ body{
     font-size:3vw;
     right:2vw;
 }
+#data{
+    position:absolute;
+    top:45vw;
+    left:0.25vw;
+    width:98.25vw;
+}
 #bottom{
     position: absolute;
-    top:50vw;
+    top:175vw;
     padding-top:1vh;
     padding-bottom:2vw;
     min-width:98vw;
